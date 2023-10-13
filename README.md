@@ -8,3 +8,4 @@
 - [Test end to end avec Playwright](https://www.youtube.com/watch?v=UgF2LwlNnC8) vidéo YouTube par Grafikart.fr
 - [Operation : Playwright](https://mathieumure.github.io/workshop-playwright/) atelier par Mathieu Mure
 - [Playwright : l’outil qui va révolutionner les tests end-to-end](https://www.youtube.com/watch?v=CeLkUDmTRkE) vidéo YouTube de conférence par Jean-François Greffier
+- [Playwright 🎭, the Cypress killer by Microsoft](https://www.youtube.com/watch?v=UDyBHzoMpV4) vidéo YouTube de conférence par Mathieu Mure
